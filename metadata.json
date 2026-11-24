@@ -1,0 +1,6 @@
+{
+  "name": "Ejen Ali: Misi Operasi Jual Beli",
+  "description": "Tapak pembelajaran digital interaktif Pendidikan Islam Tahun 5 (Bidang Fiqah: Adab Jual Beli) bertemakan dunia MATA dan Bandar Niaga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
